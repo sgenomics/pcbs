@@ -1,0 +1,129 @@
+Cmp-Mod V01 Created by Cvpcb (2014-11-17 BZR 5289)-product   date = Sun 06 Sep 2015 08:17:10 PM EDT
+
+BeginCmp
+TimeStamp = /55CF76E8;
+Reference = C1;
+ValeurCmp = 10nF;
+IdModule  = Capacitors_ThroughHole:C_Disc_D6_P5;
+EndCmp
+
+BeginCmp
+TimeStamp = /55CF9715;
+Reference = C2;
+ValeurCmp = 10nF;
+IdModule  = Capacitors_ThroughHole:C_Disc_D6_P5;
+EndCmp
+
+BeginCmp
+TimeStamp = /55CF9DF9;
+Reference = C3;
+ValeurCmp = 2.7nF;
+IdModule  = Capacitors_ThroughHole:C_Disc_D6_P5;
+EndCmp
+
+BeginCmp
+TimeStamp = /55CFA397;
+Reference = C4;
+ValeurCmp = 100nF;
+IdModule  = Capacitors_ThroughHole:C_Disc_D6_P5;
+EndCmp
+
+BeginCmp
+TimeStamp = /55CFCE6B;
+Reference = C5;
+ValeurCmp = 100uF;
+IdModule  = Capacitors_ThroughHole:C_Radial_D5_L11_P2.5;
+EndCmp
+
+BeginCmp
+TimeStamp = /55CFA83E;
+Reference = Q1;
+ValeurCmp = BC547;
+IdModule  = Housings_TO-92:TO-92_Molded_Wide;
+EndCmp
+
+BeginCmp
+TimeStamp = /55CFAAB8;
+Reference = Q2;
+ValeurCmp = BC557;
+IdModule  = Housings_TO-92:TO-92_Molded_Wide;
+EndCmp
+
+BeginCmp
+TimeStamp = /55CFAAF2;
+Reference = Q3;
+ValeurCmp = BC557;
+IdModule  = Housings_TO-92:TO-92_Molded_Wide;
+EndCmp
+
+BeginCmp
+TimeStamp = /55CFAA11;
+Reference = Q4;
+ValeurCmp = BC547;
+IdModule  = Housings_TO-92:TO-92_Molded_Wide;
+EndCmp
+
+BeginCmp
+TimeStamp = /55CF9D26;
+Reference = R1;
+ValeurCmp = 10M;
+IdModule  = Resistors_ThroughHole:Resistor_Horizontal_RM10mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /55CFBC81;
+Reference = SP1;
+ValeurCmp = SPEAKER;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = /55CF9C0B;
+Reference = U1;
+ValeurCmp = SENORPAD;
+IdModule  = kraakdoos:SENSORPAD;
+EndCmp
+
+BeginCmp
+TimeStamp = /55CF736A;
+Reference = U2;
+ValeurCmp = SENORPAD;
+IdModule  = kraakdoos:SENSORPADLEFT;
+EndCmp
+
+BeginCmp
+TimeStamp = /55CF738F;
+Reference = U3;
+ValeurCmp = SENORPAD;
+IdModule  = kraakdoos:SENSORPAD;
+EndCmp
+
+BeginCmp
+TimeStamp = /55CF9821;
+Reference = U4;
+ValeurCmp = SENORPAD;
+IdModule  = kraakdoos:SENSORPAD;
+EndCmp
+
+BeginCmp
+TimeStamp = /55CF90CA;
+Reference = U5;
+ValeurCmp = SENORPAD;
+IdModule  = kraakdoos:SENSORPADLEFT;
+EndCmp
+
+BeginCmp
+TimeStamp = /55CF6B53;
+Reference = U6;
+ValeurCmp = LM709;
+IdModule  = Sockets:H08;
+EndCmp
+
+BeginCmp
+TimeStamp = /55CFA405;
+Reference = U7;
+ValeurCmp = SENORPAD;
+IdModule  = kraakdoos:SENSORPADLEFT;
+EndCmp
+
+EndListe

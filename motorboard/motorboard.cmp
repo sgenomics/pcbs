@@ -1,0 +1,206 @@
+Cmp-Mod V01 Created by Cvpcb (2014-11-17 BZR 5289)-product   date = Wed 28 Oct 2015 06:22:45 PM EDT
+
+BeginCmp
+TimeStamp = /563187C9;
+Reference = P1;
+ValeurCmp = CONN_01X05;
+IdModule  = mb:molex1445055;
+EndCmp
+
+BeginCmp
+TimeStamp = /56316A04;
+Reference = P2;
+ValeurCmp = CONN_01X02;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = /56316013;
+Reference = P3;
+ValeurCmp = CONN_01X02;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = /56315F50;
+Reference = P4;
+ValeurCmp = MOTOR;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x04;
+EndCmp
+
+BeginCmp
+TimeStamp = /56315FA4;
+Reference = P5;
+ValeurCmp = CONN_01X02;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = /56316561;
+Reference = P6;
+ValeurCmp = CONN_01X02;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = /55C61B01;
+Reference = P7;
+ValeurCmp = ARD_PWR;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x08;
+EndCmp
+
+BeginCmp
+TimeStamp = /55C61A6B;
+Reference = P8;
+ValeurCmp = ARD_ANALOG;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x06;
+EndCmp
+
+BeginCmp
+TimeStamp = /56316A3E;
+Reference = P9;
+ValeurCmp = CONN_01X02;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = /5631605A;
+Reference = P10;
+ValeurCmp = CONN_01X02;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = /5631676B;
+Reference = P11;
+ValeurCmp = CONN_01X02;
+IdModule  = mb:PWR;
+EndCmp
+
+BeginCmp
+TimeStamp = /56315FDB;
+Reference = P12;
+ValeurCmp = PWRIN;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = /563160AC;
+Reference = P13;
+ValeurCmp = CTRL;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /55C61B7C;
+Reference = P14;
+ValeurCmp = ARD_DIGITAL2;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x10;
+EndCmp
+
+BeginCmp
+TimeStamp = /55C619D6;
+Reference = P15;
+ValeurCmp = ARD_DIGITAL;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x08;
+EndCmp
+
+BeginCmp
+TimeStamp = /563144BF;
+Reference = P16;
+ValeurCmp = CONN_01X02;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = /563144FA;
+Reference = P17;
+ValeurCmp = CONN_01X02;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = /55C8DB40;
+Reference = R10;
+ValeurCmp = R;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /55C8DBDC;
+Reference = R11;
+ValeurCmp = R;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /55C905E4;
+Reference = R12;
+ValeurCmp = R;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /55C90663;
+Reference = R13;
+ValeurCmp = R;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /55C906CB;
+Reference = R14;
+ValeurCmp = R;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /55C90762;
+Reference = R15;
+ValeurCmp = R;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /55C9092E;
+Reference = R18;
+ValeurCmp = R;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /55C908CF;
+Reference = R19;
+ValeurCmp = R;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /55C90873;
+Reference = R20;
+ValeurCmp = R;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /55C907D2;
+Reference = R21;
+ValeurCmp = R;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /5631AF2D;
+Reference = SW1;
+ValeurCmp = SW_PUSH_SMALL;
+IdModule  = mb:SW;
+EndCmp
+
+BeginCmp
+TimeStamp = /5631AEBC;
+Reference = SW2;
+ValeurCmp = SW_PUSH_SMALL;
+IdModule  = mb:SW;
+EndCmp
+
+EndListe

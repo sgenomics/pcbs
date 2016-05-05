@@ -1,0 +1,73 @@
+Cmp-Mod V01 Created by Cvpcb (2014-11-17 BZR 5289)-product   date = Wed 28 Oct 2015 02:08:27 PM EDT
+
+BeginCmp
+TimeStamp = /55D501E2;
+Reference = C1;
+ValeurCmp = 0.01uF;
+IdModule  = Capacitors_ThroughHole:C_Disc_D6_P5;
+EndCmp
+
+BeginCmp
+TimeStamp = /55D50578;
+Reference = C2;
+ValeurCmp = 0.1uF;
+IdModule  = Capacitors_ThroughHole:C_Disc_D6_P5;
+EndCmp
+
+BeginCmp
+TimeStamp = /55D506F7;
+Reference = C3;
+ValeurCmp = 10uF;
+IdModule  = Capacitors_ThroughHole:C_Radial_D5_L11_P2.5;
+EndCmp
+
+BeginCmp
+TimeStamp = /55D51CF1;
+Reference = P1;
+ValeurCmp = SPEAKERCON;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = /55D50DA2;
+Reference = P2;
+ValeurCmp = PWRCON;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = /55D501A5;
+Reference = R1;
+ValeurCmp = 1K;
+IdModule  = Resistors_ThroughHole:Resistor_Horizontal_RM15mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /55D4FCB6;
+Reference = U1;
+ValeurCmp = LM555N;
+IdModule  = Sockets_DIP:DIP-8__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55D4FD35;
+Reference = U2;
+ValeurCmp = LM555N;
+IdModule  = Sockets_DIP:DIP-8__300;
+EndCmp
+
+BeginCmp
+TimeStamp = /55D4FE28;
+Reference = VR1;
+ValeurCmp = 470K;
+IdModule  = PNZ10Z:PNZ10Z;
+EndCmp
+
+BeginCmp
+TimeStamp = /55D4FF9B;
+Reference = VR2;
+ValeurCmp = 470K;
+IdModule  = PNZ10Z:PNZ10Z;
+EndCmp
+
+EndListe

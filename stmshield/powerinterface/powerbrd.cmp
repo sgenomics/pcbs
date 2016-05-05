@@ -1,0 +1,59 @@
+Cmp-Mod V01 Created by Cvpcb (2014-11-17 BZR 5289)-product   date = Wed 28 Oct 2015 08:04:33 PM EDT
+
+BeginCmp
+TimeStamp = /55E25992;
+Reference = P1;
+ValeurCmp = -14V;
+IdModule  = prw:SMA;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E2586D;
+Reference = P2;
+ValeurCmp = 14V;
+IdModule  = prw:SMA;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E258ED;
+Reference = P3;
+ValeurCmp = VREF;
+IdModule  = prw:SMA;
+EndCmp
+
+BeginCmp
+TimeStamp = /56319864;
+Reference = P4;
+ValeurCmp = CONN_01X06;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x06;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E24C67;
+Reference = P5;
+ValeurCmp = CONN_01X06;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x06;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E24F46;
+Reference = P6;
+ValeurCmp = BNC;
+IdModule  = prw:SMA;
+EndCmp
+
+BeginCmp
+TimeStamp = /56319830;
+Reference = P7;
+ValeurCmp = CONN_01X06;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x06;
+EndCmp
+
+BeginCmp
+TimeStamp = /56319782;
+Reference = P8;
+ValeurCmp = CONN_01X06;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x06;
+EndCmp
+
+EndListe

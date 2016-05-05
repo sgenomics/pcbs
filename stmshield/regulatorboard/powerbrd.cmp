@@ -1,0 +1,178 @@
+Cmp-Mod V01 Created by Cvpcb (2014-11-17 BZR 5289)-product   date = Sat 29 Aug 2015 08:35:30 PM EDT
+
+BeginCmp
+TimeStamp = /55C64A8A;
+Reference = C6;
+ValeurCmp = 10uF;
+IdModule  = prw:SMD-1210_Pol;
+EndCmp
+
+BeginCmp
+TimeStamp = /55C85851;
+Reference = C7;
+ValeurCmp = 10uF;
+IdModule  = prw:SMD-1210_Pol;
+EndCmp
+
+BeginCmp
+TimeStamp = /55C7172F;
+Reference = C8;
+ValeurCmp = 10uF;
+IdModule  = prw:SMD-1210_Pol;
+EndCmp
+
+BeginCmp
+TimeStamp = /55C6B9EE;
+Reference = C9;
+ValeurCmp = 0.1uF;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /55C64AEF;
+Reference = C10;
+ValeurCmp = 10nF;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /55C791D7;
+Reference = C11;
+ValeurCmp = 10nF;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /55C6C3FE;
+Reference = C12;
+ValeurCmp = 0.1uF;
+IdModule  = prw:SMD-1210_Pol;
+EndCmp
+
+BeginCmp
+TimeStamp = /55C8588C;
+Reference = C13;
+ValeurCmp = 10nF;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /55C85857;
+Reference = C14;
+ValeurCmp = 10nF;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /55C795CB;
+Reference = C15;
+ValeurCmp = 10uF;
+IdModule  = prw:SMD-1210_Pol;
+EndCmp
+
+BeginCmp
+TimeStamp = /55C85898;
+Reference = C16;
+ValeurCmp = 10uF;
+IdModule  = prw:SMD-1210_Pol;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E27626;
+Reference = P1;
+ValeurCmp = BNC;
+IdModule  = prw:SMA;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E282DB;
+Reference = P2;
+ValeurCmp = CONN_01X03;
+IdModule  = Socket_Strips:Socket_Strip_Straight_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E26BA0;
+Reference = P3;
+ValeurCmp = BNC;
+IdModule  = prw:SMA;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E2A25D;
+Reference = P4;
+ValeurCmp = BNC;
+IdModule  = prw:SMA;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E26C0A;
+Reference = P5;
+ValeurCmp = BNC;
+IdModule  = prw:SMA;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E275DD;
+Reference = P6;
+ValeurCmp = BNC;
+IdModule  = prw:SMA;
+EndCmp
+
+BeginCmp
+TimeStamp = /55E29759;
+Reference = P7;
+ValeurCmp = BNC;
+IdModule  = prw:SMA;
+EndCmp
+
+BeginCmp
+TimeStamp = /55C7892B;
+Reference = R4;
+ValeurCmp = 118;
+IdModule  = Resistors_SMD:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /55C78980;
+Reference = R5;
+ValeurCmp = 10;
+IdModule  = Resistors_SMD:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /55C85871;
+Reference = R6;
+ValeurCmp = 118;
+IdModule  = Resistors_SMD:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /55C85877;
+Reference = R7;
+ValeurCmp = 10;
+IdModule  = Resistors_SMD:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /55C7836A;
+Reference = U3;
+ValeurCmp = TPS7A4901;
+IdModule  = Housings_SSOP:MSOP-8_3x3mm_Pitch0.65mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /55C8387E;
+Reference = U4;
+ValeurCmp = TPS7A3001;
+IdModule  = Housings_SSOP:MSOP-8_3x3mm_Pitch0.65mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /55C63182;
+Reference = U5;
+ValeurCmp = ADR445;
+IdModule  = SMD_Packages:SOIC-8-N;
+EndCmp
+
+EndListe

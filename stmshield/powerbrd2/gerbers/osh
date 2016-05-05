@@ -1,0 +1,12 @@
+#!/bin/bash
+front=`ls  *-F_Cu.gbr`
+projname=`basename $front \-F_Cu.gbr`
+ 
+mv *-F_Cu.gbr $projname.GTL
+mv *-B_Cu.gbr $projname.GBL
+mv *-F_Mask.gbr $projname.GTS
+mv *-B_Mask.gbr $projname.GBS
+mv *-F_SilkS.gbr $projname.GTO
+mv *-B_SilkS.gbr $projname.GBO
+mv *-Edge_Cuts.gbr $projname.GKO
+mv *.drl $projname.XLN

@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name PNZ10Z)(type KiCad)(uri ${KIPRJMOD}/PNZ10Z.pretty)(options "")(descr ""))
+)

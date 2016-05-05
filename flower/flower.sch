@@ -1,0 +1,199 @@
+EESchema Schematic File Version 2
+LIBS:power
+LIBS:device
+LIBS:transistors
+LIBS:conn
+LIBS:linear
+LIBS:regul
+LIBS:74xx
+LIBS:cmos4000
+LIBS:adc-dac
+LIBS:memory
+LIBS:xilinx
+LIBS:microcontrollers
+LIBS:dsp
+LIBS:microchip
+LIBS:analog_switches
+LIBS:motorola
+LIBS:texas
+LIBS:intel
+LIBS:audio
+LIBS:interface
+LIBS:digital-audio
+LIBS:philips
+LIBS:display
+LIBS:cypress
+LIBS:siliconi
+LIBS:opto
+LIBS:atmel
+LIBS:contrib
+LIBS:valves
+LIBS:cl0116
+LIBS:flower-cache
+EELAYER 25 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L INDUCTOR L1
+U 1 1 56970459
+P 5300 2650
+F 0 "L1" V 5250 2650 50  0000 C CNN
+F 1 "INDUCTOR" V 5400 2650 50  0000 C CNN
+F 2 "Resistors_ThroughHole:Resistor_Horizontal_RM10mm" H 5300 2650 60  0001 C CNN
+F 3 "" H 5300 2650 60  0000 C CNN
+	1    5300 2650
+	0    -1   -1   0   
+$EndComp
+$Comp
+L LED D1
+U 1 1 569704E2
+P 6500 3200
+F 0 "D1" H 6500 3300 50  0000 C CNN
+F 1 "LED" H 6500 3100 50  0000 C CNN
+F 2 "LEDs:LED-3MM" H 6500 3200 60  0001 C CNN
+F 3 "" H 6500 3200 60  0000 C CNN
+	1    6500 3200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L LED D2
+U 1 1 56970557
+P 6800 3200
+F 0 "D2" H 6800 3300 50  0000 C CNN
+F 1 "LED" H 6800 3100 50  0000 C CNN
+F 2 "LEDs:LED-3MM" H 6800 3200 60  0001 C CNN
+F 3 "" H 6800 3200 60  0000 C CNN
+	1    6800 3200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L LED D3
+U 1 1 5697057A
+P 7050 3200
+F 0 "D3" H 7050 3300 50  0000 C CNN
+F 1 "LED" H 7050 3100 50  0000 C CNN
+F 2 "LEDs:LED-3MM" H 7050 3200 60  0001 C CNN
+F 3 "" H 7050 3200 60  0000 C CNN
+	1    7050 3200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L LED D4
+U 1 1 569705A1
+P 7300 3200
+F 0 "D4" H 7300 3300 50  0000 C CNN
+F 1 "LED" H 7300 3100 50  0000 C CNN
+F 2 "LEDs:LED-3MM" H 7300 3200 60  0001 C CNN
+F 3 "" H 7300 3200 60  0000 C CNN
+	1    7300 3200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L LED D5
+U 1 1 569705C6
+P 7550 3200
+F 0 "D5" H 7550 3300 50  0000 C CNN
+F 1 "LED" H 7550 3100 50  0000 C CNN
+F 2 "LEDs:LED-3MM" H 7550 3200 60  0001 C CNN
+F 3 "" H 7550 3200 60  0000 C CNN
+	1    7550 3200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L LED D6
+U 1 1 569705ED
+P 7800 3200
+F 0 "D6" H 7800 3300 50  0000 C CNN
+F 1 "LED" H 7800 3100 50  0000 C CNN
+F 2 "LEDs:LED-3MM" H 7800 3200 60  0001 C CNN
+F 3 "" H 7800 3200 60  0000 C CNN
+	1    7800 3200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L CONN_01X02 P2
+U 1 1 56970618
+P 4500 3500
+F 0 "P2" H 4500 3650 50  0000 C CNN
+F 1 "SOL" V 4600 3500 50  0000 C CNN
+F 2 "Socket_Strips:Socket_Strip_Straight_1x02" H 4500 3500 60  0001 C CNN
+F 3 "" H 4500 3500 60  0000 C CNN
+	1    4500 3500
+	-1   0    0    1   
+$EndComp
+$Comp
+L CONN_01X02 P1
+U 1 1 5697067B
+P 3950 2700
+F 0 "P1" H 3950 2850 50  0000 C CNN
+F 1 "BAT" V 4050 2700 50  0000 C CNN
+F 2 "Socket_Strips:Socket_Strip_Straight_1x02" H 3950 2700 60  0001 C CNN
+F 3 "" H 3950 2700 60  0000 C CNN
+	1    3950 2700
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	6500 3000 7800 3000
+Connection ~ 7550 3000
+Connection ~ 7300 3000
+Connection ~ 7050 3000
+Connection ~ 6800 3000
+Wire Wire Line
+	6500 3400 7800 3400
+Connection ~ 6800 3400
+Connection ~ 7050 3400
+Connection ~ 7300 3400
+Connection ~ 7550 3400
+$Comp
+L CL0116 U1
+U 1 1 569708FA
+P 5300 3300
+F 0 "U1" H 5100 2900 60  0000 C CNN
+F 1 "CL0116" H 5300 3650 60  0000 C CNN
+F 2 "to94:TO94" H 5300 3300 60  0001 C CNN
+F 3 "" H 5300 3300 60  0000 C CNN
+	1    5300 3300
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5750 3200 5750 2650
+Wire Wire Line
+	5600 2650 7200 2650
+Wire Wire Line
+	4150 2650 5000 2650
+Wire Wire Line
+	4700 2650 4700 3200
+Wire Wire Line
+	4700 3200 4850 3200
+Wire Wire Line
+	4850 3450 4700 3450
+Wire Wire Line
+	4700 3550 4700 3750
+Wire Wire Line
+	4200 3750 7200 3750
+Wire Wire Line
+	7200 3750 7200 3400
+Connection ~ 7200 3400
+Connection ~ 5400 3750
+Wire Wire Line
+	7200 2650 7200 3000
+Connection ~ 5750 2650
+Connection ~ 7200 3000
+Connection ~ 4700 2650
+Wire Wire Line
+	4200 2750 4200 3750
+Connection ~ 4700 3750
+Wire Wire Line
+	4200 2750 4150 2750
+$EndSCHEMATC

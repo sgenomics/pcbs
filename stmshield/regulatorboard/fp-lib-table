@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name prw)(type KiCad)(uri /home/new/gitcode/stmshield/powerbrd.pretty)(options "")(descr ""))
+)
