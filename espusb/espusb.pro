@@ -1,4 +1,4 @@
-update=Thu 05 May 2016 03:32:22 AM EDT
+update=Sun 08 May 2016 12:57:56 AM EDT
 version=1
 last_client=kicad
 [pcbnew]
@@ -63,3 +63,4 @@ LibName31=mcp1603
 LibName32=ft232
 LibName33=esp8266
 LibName34=serflash
+LibName35=ch340
