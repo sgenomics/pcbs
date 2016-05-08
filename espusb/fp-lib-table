@@ -2,4 +2,5 @@
   (lib (name espusb)(type KiCad)(uri "$(KIPRJMOD)")(options "")(descr ""))
   (lib (name microsd)(type KiCad)(uri "$(KIPRJMOD)/microsd.pretty")(options "")(descr ""))
   (lib (name wifiantenna)(type KiCad)(uri "$(KIPRJMOD)/wifiantenna.pretty")(options "")(descr ""))
+  (lib (name smdxtal)(type KiCad)(uri "$(KIPRJMOD)/smdxtal.pretty")(options "")(descr ""))
 )
