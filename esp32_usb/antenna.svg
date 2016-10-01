@@ -1,0 +1,701 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-width="0"
+   fill-rule="evenodd"
+   width="1.017in"
+   height="0.6575in"
+   viewBox="659.71 294.08 1017 657.5"
+   id="MOD-WiFi-ESP8266_Rev_A"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="antenna.svg">
+  <metadata
+     id="metadata231">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="717"
+     id="namedview229"
+     showgrid="true"
+     inkscape:zoom="14.671817"
+     inkscape:cx="53.531981"
+     inkscape:cy="42.102071"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs3">
+    <rect
+       x="-74.5"
+       y="-34.5"
+       width="149"
+       height="69"
+       id="MOD-WiFi-ESP8266_Rev_A_pad-10" />
+    <rect
+       x="-13.5"
+       y="-14"
+       width="27"
+       height="28"
+       id="MOD-WiFi-ESP8266_Rev_A_pad-11" />
+    <rect
+       x="-37.435"
+       y="-37.435"
+       width="74.87"
+       height="74.87"
+       id="MOD-WiFi-ESP8266_Rev_A_pad-12" />
+    <rect
+       x="-13.905"
+       y="-13.905"
+       width="27.81"
+       height="27.81"
+       id="MOD-WiFi-ESP8266_Rev_A_pad-13" />
+    <rect
+       x="-7.51"
+       y="-17.75"
+       width="15.02"
+       height="35.5"
+       id="MOD-WiFi-ESP8266_Rev_A_pad-14" />
+    <rect
+       x="-17.75"
+       y="-7.51"
+       width="35.5"
+       height="15.02"
+       id="MOD-WiFi-ESP8266_Rev_A_pad-15" />
+    <rect
+       x="-72.865"
+       y="-72.865"
+       width="145.73"
+       height="145.73"
+       id="MOD-WiFi-ESP8266_Rev_A_pad-16" />
+    <circle
+       cx="0"
+       cy="0"
+       r="15.875"
+       id="MOD-WiFi-ESP8266_Rev_A_pad-18" />
+    <rect
+       x="-39.5"
+       y="-14.5"
+       width="79"
+       height="29"
+       id="MOD-WiFi-ESP8266_Rev_A_pad-19" />
+    <rect
+       x="-14"
+       y="-13.5"
+       width="28"
+       height="27"
+       id="MOD-WiFi-ESP8266_Rev_A_pad-20" />
+    <rect
+       x="-22"
+       y="-22"
+       width="44"
+       height="44"
+       id="MOD-WiFi-ESP8266_Rev_A_pad-21" />
+    <rect
+       x="-52"
+       y="-17"
+       width="104"
+       height="34"
+       id="MOD-WiFi-ESP8266_Rev_A_pad-22" />
+    <rect
+       x="-25.62"
+       y="-29.56"
+       width="51.24"
+       height="59.12"
+       id="MOD-WiFi-ESP8266_Rev_A_pad-23" />
+    <circle
+       cx="0"
+       cy="0"
+       r="30"
+       id="MOD-WiFi-ESP8266_Rev_A_pad-24" />
+  </defs>
+  <use
+     style="opacity:0.57081544;fill:currentColor;stroke:currentColor"
+     id="use251"
+     y="778.08002"
+     x="1366.71"
+     xlink:href="#MOD-WiFi-ESP8266_Rev_A_pad-30"
+     width="744.09448"
+     height="1052.3622"
+     transform="matrix(1,0,0,-1,0.01224983,1245.5435)" />
+  <use
+     style="opacity:0.57081544;fill:currentColor;stroke:currentColor"
+     id="use253"
+     y="583.08002"
+     x="1246.71"
+     xlink:href="#MOD-WiFi-ESP8266_Rev_A_pad-30"
+     width="744.09448"
+     height="1052.3622"
+     transform="matrix(1,0,0,-1,0.01224983,1245.5435)" />
+  <use
+     style="opacity:0.57081544;fill:currentColor;stroke:currentColor"
+     id="use255"
+     y="803.08002"
+     x="1001.71"
+     xlink:href="#MOD-WiFi-ESP8266_Rev_A_pad-30"
+     width="744.09448"
+     height="1052.3622"
+     transform="matrix(1,0,0,-1,0.01224983,1245.5435)" />
+  <use
+     style="opacity:0.57081544;fill:currentColor;stroke:currentColor"
+     id="use257"
+     y="743.08002"
+     x="961.71002"
+     xlink:href="#MOD-WiFi-ESP8266_Rev_A_pad-30"
+     width="744.09448"
+     height="1052.3622"
+     transform="matrix(1,0,0,-1,0.01224983,1245.5435)" />
+  <use
+     style="opacity:0.57081544;fill:currentColor;stroke:currentColor"
+     id="use259"
+     y="823.08002"
+     x="887.71002"
+     xlink:href="#MOD-WiFi-ESP8266_Rev_A_pad-30"
+     width="744.09448"
+     height="1052.3622"
+     transform="matrix(1,0,0,-1,0.01224983,1245.5435)" />
+  <use
+     style="opacity:0.57081544;fill:currentColor;stroke:currentColor"
+     id="use261"
+     y="913.08002"
+     x="936.71002"
+     xlink:href="#MOD-WiFi-ESP8266_Rev_A_pad-30"
+     width="744.09448"
+     height="1052.3622"
+     transform="matrix(1,0,0,-1,0.01224983,1245.5435)" />
+  <use
+     style="opacity:0.57081544;fill:currentColor;stroke:currentColor"
+     id="use263"
+     y="913.08002"
+     x="1106.71"
+     xlink:href="#MOD-WiFi-ESP8266_Rev_A_pad-30"
+     width="744.09448"
+     height="1052.3622"
+     transform="matrix(1,0,0,-1,0.01224983,1245.5435)" />
+  <use
+     style="opacity:0.57081544;fill:currentColor;stroke:currentColor"
+     id="use265"
+     y="595.58002"
+     x="934.21002"
+     xlink:href="#MOD-WiFi-ESP8266_Rev_A_pad-30"
+     width="744.09448"
+     height="1052.3622"
+     transform="matrix(1,0,0,-1,0.01224983,1245.5435)" />
+  <use
+     style="opacity:0.57081544;fill:currentColor;stroke:currentColor"
+     id="use267"
+     y="383.07999"
+     x="916.71002"
+     xlink:href="#MOD-WiFi-ESP8266_Rev_A_pad-30"
+     width="744.09448"
+     height="1052.3622"
+     transform="matrix(1,0,0,-1,0.01224983,1245.5435)" />
+  <use
+     style="opacity:0.57081544;fill:currentColor;stroke:currentColor"
+     id="use269"
+     y="308.07999"
+     x="881.71002"
+     xlink:href="#MOD-WiFi-ESP8266_Rev_A_pad-30"
+     width="744.09448"
+     height="1052.3622"
+     transform="matrix(1,0,0,-1,0.01224983,1245.5435)" />
+  <use
+     style="opacity:0.57081544;fill:currentColor;stroke:currentColor"
+     id="use271"
+     y="393.07999"
+     x="871.71002"
+     xlink:href="#MOD-WiFi-ESP8266_Rev_A_pad-31"
+     width="744.09448"
+     height="1052.3622"
+     transform="matrix(1,0,0,-1,0.01224983,1245.5435)" />
+  <use
+     style="opacity:0.57081544;fill:currentColor;stroke:currentColor"
+     id="use273"
+     y="393.07999"
+     x="836.71002"
+     xlink:href="#MOD-WiFi-ESP8266_Rev_A_pad-31"
+     width="744.09448"
+     height="1052.3622"
+     transform="matrix(1,0,0,-1,0.01224983,1245.5435)" />
+  <use
+     style="opacity:0.57081544;fill:currentColor;stroke:currentColor"
+     id="use275"
+     y="428.07999"
+     x="836.71002"
+     xlink:href="#MOD-WiFi-ESP8266_Rev_A_pad-31"
+     width="744.09448"
+     height="1052.3622"
+     transform="matrix(1,0,0,-1,0.01224983,1245.5435)" />
+  <use
+     style="opacity:0.57081544;fill:currentColor;stroke:currentColor"
+     id="use277"
+     y="463.07999"
+     x="836.71002"
+     xlink:href="#MOD-WiFi-ESP8266_Rev_A_pad-31"
+     width="744.09448"
+     height="1052.3622"
+     transform="matrix(1,0,0,-1,0.01224983,1245.5435)" />
+  <use
+     style="opacity:0.57081544;fill:currentColor;stroke:currentColor"
+     id="use279"
+     y="498.07999"
+     x="836.71002"
+     xlink:href="#MOD-WiFi-ESP8266_Rev_A_pad-31"
+     width="744.09448"
+     height="1052.3622"
+     transform="matrix(1,0,0,-1,0.01224983,1245.5435)" />
+  <use
+     style="opacity:0.57081544;fill:currentColor;stroke:currentColor"
+     id="use281"
+     y="498.07999"
+     x="871.71002"
+     xlink:href="#MOD-WiFi-ESP8266_Rev_A_pad-31"
+     width="744.09448"
+     height="1052.3622"
+     transform="matrix(1,0,0,-1,0.01224983,1245.5435)" />
+  <use
+     style="opacity:0.57081544;fill:currentColor;stroke:currentColor"
+     id="use283"
+     y="428.07999"
+     x="871.71002"
+     xlink:href="#MOD-WiFi-ESP8266_Rev_A_pad-31"
+     width="744.09448"
+     height="1052.3622"
+     transform="matrix(1,0,0,-1,0.01224983,1245.5435)" />
+  <use
+     style="opacity:0.57081544;fill:currentColor;stroke:currentColor"
+     id="use285"
+     y="608.08002"
+     x="836.71002"
+     xlink:href="#MOD-WiFi-ESP8266_Rev_A_pad-31"
+     width="744.09448"
+     height="1052.3622"
+     transform="matrix(1,0,0,-1,0.01224983,1245.5435)" />
+  <use
+     style="opacity:0.57081544;fill:currentColor;stroke:currentColor"
+     id="use287"
+     y="633.08002"
+     x="896.71002"
+     xlink:href="#MOD-WiFi-ESP8266_Rev_A_pad-31"
+     width="744.09448"
+     height="1052.3622"
+     transform="matrix(1,0,0,-1,0.01224983,1245.5435)" />
+  <use
+     style="opacity:0.57081544;fill:currentColor;stroke:currentColor"
+     id="use289"
+     y="668.08002"
+     x="896.71002"
+     xlink:href="#MOD-WiFi-ESP8266_Rev_A_pad-31"
+     width="744.09448"
+     height="1052.3622"
+     transform="matrix(1,0,0,-1,0.01224983,1245.5435)" />
+  <use
+     style="opacity:0.57081544;fill:currentColor;stroke:currentColor"
+     id="use291"
+     y="703.08002"
+     x="896.71002"
+     xlink:href="#MOD-WiFi-ESP8266_Rev_A_pad-31"
+     width="744.09448"
+     height="1052.3622"
+     transform="matrix(1,0,0,-1,0.01224983,1245.5435)" />
+  <use
+     style="opacity:0.57081544;fill:currentColor;stroke:currentColor"
+     id="use293"
+     y="738.08002"
+     x="901.71002"
+     xlink:href="#MOD-WiFi-ESP8266_Rev_A_pad-31"
+     width="744.09448"
+     height="1052.3622"
+     transform="matrix(1,0,0,-1,0.01224983,1245.5435)" />
+  <use
+     style="opacity:0.57081544;fill:currentColor;stroke:currentColor"
+     id="use295"
+     y="863.08002"
+     x="881.71002"
+     xlink:href="#MOD-WiFi-ESP8266_Rev_A_pad-31"
+     width="744.09448"
+     height="1052.3622"
+     transform="matrix(1,0,0,-1,0.01224983,1245.5435)" />
+  <use
+     style="opacity:0.57081544;fill:currentColor;stroke:currentColor"
+     id="use297"
+     y="863.08002"
+     x="936.71002"
+     xlink:href="#MOD-WiFi-ESP8266_Rev_A_pad-31"
+     width="744.09448"
+     height="1052.3622"
+     transform="matrix(1,0,0,-1,0.01224983,1245.5435)" />
+  <use
+     style="opacity:0.57081544;fill:currentColor;stroke:currentColor"
+     id="use299"
+     y="943.08002"
+     x="926.71002"
+     xlink:href="#MOD-WiFi-ESP8266_Rev_A_pad-31"
+     width="744.09448"
+     height="1052.3622"
+     transform="matrix(1,0,0,-1,0.01224983,1245.5435)" />
+  <use
+     style="opacity:0.57081544;fill:currentColor;stroke:currentColor"
+     id="use301"
+     y="943.08002"
+     x="891.71002"
+     xlink:href="#MOD-WiFi-ESP8266_Rev_A_pad-31"
+     width="744.09448"
+     height="1052.3622"
+     transform="matrix(1,0,0,-1,0.01224983,1245.5435)" />
+  <use
+     style="opacity:0.57081544;fill:currentColor;stroke:currentColor"
+     id="use303"
+     y="943.08002"
+     x="1036.71"
+     xlink:href="#MOD-WiFi-ESP8266_Rev_A_pad-31"
+     width="744.09448"
+     height="1052.3622"
+     transform="matrix(1,0,0,-1,0.01224983,1245.5435)" />
+  <use
+     style="opacity:0.57081544;fill:currentColor;stroke:currentColor"
+     id="use305"
+     y="943.08002"
+     x="1076.71"
+     xlink:href="#MOD-WiFi-ESP8266_Rev_A_pad-31"
+     width="744.09448"
+     height="1052.3622"
+     transform="matrix(1,0,0,-1,0.01224983,1245.5435)" />
+  <use
+     style="opacity:0.57081544;fill:currentColor;stroke:currentColor"
+     id="use307"
+     y="943.08002"
+     x="1149.21"
+     xlink:href="#MOD-WiFi-ESP8266_Rev_A_pad-31"
+     width="744.09448"
+     height="1052.3622"
+     transform="matrix(1,0,0,-1,0.01224983,1245.5435)" />
+  <use
+     style="opacity:0.57081544;fill:currentColor;stroke:currentColor"
+     id="use309"
+     y="898.08002"
+     x="1141.71"
+     xlink:href="#MOD-WiFi-ESP8266_Rev_A_pad-31"
+     width="744.09448"
+     height="1052.3622"
+     transform="matrix(1,0,0,-1,0.01224983,1245.5435)" />
+  <use
+     style="opacity:0.57081544;fill:currentColor;stroke:currentColor"
+     id="use311"
+     y="768.08002"
+     x="1331.71"
+     xlink:href="#MOD-WiFi-ESP8266_Rev_A_pad-31"
+     width="744.09448"
+     height="1052.3622"
+     transform="matrix(1,0,0,-1,0.01224983,1245.5435)" />
+  <use
+     style="opacity:0.57081544;fill:currentColor;stroke:currentColor"
+     id="use313"
+     y="543.08002"
+     x="1281.71"
+     xlink:href="#MOD-WiFi-ESP8266_Rev_A_pad-31"
+     width="744.09448"
+     height="1052.3622"
+     transform="matrix(1,0,0,-1,0.01224983,1245.5435)" />
+  <use
+     style="opacity:0.57081544;fill:currentColor;stroke:currentColor"
+     id="use315"
+     y="523.08002"
+     x="1301.71"
+     xlink:href="#MOD-WiFi-ESP8266_Rev_A_pad-31"
+     width="744.09448"
+     height="1052.3622"
+     transform="matrix(1,0,0,-1,0.01224983,1245.5435)" />
+  <use
+     style="opacity:0.57081544;fill:currentColor;stroke:currentColor"
+     id="use317"
+     y="508.07999"
+     x="1341.71"
+     xlink:href="#MOD-WiFi-ESP8266_Rev_A_pad-31"
+     width="744.09448"
+     height="1052.3622"
+     transform="matrix(1,0,0,-1,0.01224983,1245.5435)" />
+  <use
+     style="opacity:0.57081544;fill:currentColor;stroke:currentColor"
+     id="use319"
+     y="483.07999"
+     x="1326.71"
+     xlink:href="#MOD-WiFi-ESP8266_Rev_A_pad-31"
+     width="744.09448"
+     height="1052.3622"
+     transform="matrix(1,0,0,-1,0.01224983,1245.5435)" />
+  <use
+     style="opacity:0.57081544;fill:currentColor;stroke:currentColor"
+     id="use321"
+     y="508.07999"
+     x="1371.71"
+     xlink:href="#MOD-WiFi-ESP8266_Rev_A_pad-31"
+     width="744.09448"
+     height="1052.3622"
+     transform="matrix(1,0,0,-1,0.01224983,1245.5435)" />
+  <use
+     style="opacity:0.57081544;fill:currentColor;stroke:currentColor"
+     id="use323"
+     y="535.58002"
+     x="1206.71"
+     xlink:href="#MOD-WiFi-ESP8266_Rev_A_pad-31"
+     width="744.09448"
+     height="1052.3622"
+     transform="matrix(1,0,0,-1,0.01224983,1245.5435)" />
+  <use
+     style="opacity:0.57081544;fill:currentColor;stroke:currentColor"
+     id="use325"
+     y="513.08002"
+     x="1186.71"
+     xlink:href="#MOD-WiFi-ESP8266_Rev_A_pad-31"
+     width="744.09448"
+     height="1052.3622"
+     transform="matrix(1,0,0,-1,0.01224983,1245.5435)" />
+  <use
+     style="opacity:0.57081544;fill:currentColor;stroke:currentColor"
+     id="use327"
+     y="548.08002"
+     x="1176.71"
+     xlink:href="#MOD-WiFi-ESP8266_Rev_A_pad-31"
+     width="744.09448"
+     height="1052.3622"
+     transform="matrix(1,0,0,-1,0.01224983,1245.5435)" />
+  <use
+     style="opacity:0.57081544;fill:currentColor;stroke:currentColor"
+     id="use329"
+     y="508.07999"
+     x="1156.71"
+     xlink:href="#MOD-WiFi-ESP8266_Rev_A_pad-31"
+     width="744.09448"
+     height="1052.3622"
+     transform="matrix(1,0,0,-1,0.01224983,1245.5435)" />
+  <use
+     style="opacity:0.57081544;fill:currentColor;stroke:currentColor"
+     id="use331"
+     y="463.07999"
+     x="1126.71"
+     xlink:href="#MOD-WiFi-ESP8266_Rev_A_pad-31"
+     width="744.09448"
+     height="1052.3622"
+     transform="matrix(1,0,0,-1,0.01224983,1245.5435)" />
+  <use
+     style="opacity:0.57081544;fill:currentColor;stroke:currentColor"
+     id="use333"
+     y="423.07999"
+     x="1121.71"
+     xlink:href="#MOD-WiFi-ESP8266_Rev_A_pad-31"
+     width="744.09448"
+     height="1052.3622"
+     transform="matrix(1,0,0,-1,0.01224983,1245.5435)" />
+  <use
+     style="opacity:0.57081544;fill:currentColor;stroke:currentColor"
+     id="use335"
+     y="393.07999"
+     x="1121.71"
+     xlink:href="#MOD-WiFi-ESP8266_Rev_A_pad-31"
+     width="744.09448"
+     height="1052.3622"
+     transform="matrix(1,0,0,-1,0.01224983,1245.5435)" />
+  <use
+     style="opacity:0.57081544;fill:currentColor;stroke:currentColor"
+     id="use337"
+     y="393.07999"
+     x="1091.71"
+     xlink:href="#MOD-WiFi-ESP8266_Rev_A_pad-31"
+     width="744.09448"
+     height="1052.3622"
+     transform="matrix(1,0,0,-1,0.01224983,1245.5435)" />
+  <use
+     style="opacity:0.57081544;fill:currentColor;stroke:currentColor"
+     id="use339"
+     y="363.07999"
+     x="1076.71"
+     xlink:href="#MOD-WiFi-ESP8266_Rev_A_pad-31"
+     width="744.09448"
+     height="1052.3622"
+     transform="matrix(1,0,0,-1,0.01224983,1245.5435)" />
+  <use
+     style="opacity:0.57081544;fill:currentColor;stroke:currentColor"
+     id="use341"
+     y="353.07999"
+     x="1109.21"
+     xlink:href="#MOD-WiFi-ESP8266_Rev_A_pad-31"
+     width="744.09448"
+     height="1052.3622"
+     transform="matrix(1,0,0,-1,0.01224983,1245.5435)" />
+  <use
+     style="opacity:0.57081544;fill:currentColor;stroke:currentColor"
+     id="use343"
+     y="330.57999"
+     x="1091.71"
+     xlink:href="#MOD-WiFi-ESP8266_Rev_A_pad-31"
+     width="744.09448"
+     height="1052.3622"
+     transform="matrix(1,0,0,-1,0.01224983,1245.5435)" />
+  <use
+     style="opacity:0.57081544;fill:currentColor;stroke:currentColor"
+     id="use345"
+     y="308.07999"
+     x="1074.21"
+     xlink:href="#MOD-WiFi-ESP8266_Rev_A_pad-31"
+     width="744.09448"
+     height="1052.3622"
+     transform="matrix(1,0,0,-1,0.01224983,1245.5435)" />
+  <use
+     style="opacity:0.57081544;fill:currentColor;stroke:currentColor"
+     id="use347"
+     y="308.07999"
+     x="1109.21"
+     xlink:href="#MOD-WiFi-ESP8266_Rev_A_pad-31"
+     width="744.09448"
+     height="1052.3622"
+     transform="matrix(1,0,0,-1,0.01224983,1245.5435)" />
+  <use
+     style="opacity:0.57081544;fill:currentColor;stroke:currentColor"
+     id="use349"
+     y="330.57999"
+     x="1126.71"
+     xlink:href="#MOD-WiFi-ESP8266_Rev_A_pad-31"
+     width="744.09448"
+     height="1052.3622"
+     transform="matrix(1,0,0,-1,0.01224983,1245.5435)" />
+  <use
+     style="opacity:0.57081544;fill:currentColor;stroke:currentColor"
+     id="use351"
+     y="308.07999"
+     x="1144.21"
+     xlink:href="#MOD-WiFi-ESP8266_Rev_A_pad-31"
+     width="744.09448"
+     height="1052.3622"
+     transform="matrix(1,0,0,-1,0.01224983,1245.5435)" />
+  <use
+     style="opacity:0.57081544;fill:currentColor;stroke:currentColor"
+     id="use353"
+     y="330.57999"
+     x="1161.71"
+     xlink:href="#MOD-WiFi-ESP8266_Rev_A_pad-31"
+     width="744.09448"
+     height="1052.3622"
+     transform="matrix(1,0,0,-1,0.01224983,1245.5435)" />
+  <use
+     style="opacity:0.57081544;fill:currentColor;stroke:currentColor"
+     id="use355"
+     y="308.07999"
+     x="1179.21"
+     xlink:href="#MOD-WiFi-ESP8266_Rev_A_pad-31"
+     width="744.09448"
+     height="1052.3622"
+     transform="matrix(1,0,0,-1,0.01224983,1245.5435)" />
+  <use
+     style="opacity:0.57081544;fill:currentColor;stroke:currentColor"
+     id="use357"
+     y="433.07999"
+     x="1176.71"
+     xlink:href="#MOD-WiFi-ESP8266_Rev_A_pad-31"
+     width="744.09448"
+     height="1052.3622"
+     transform="matrix(1,0,0,-1,0.01224983,1245.5435)" />
+  <use
+     style="opacity:0.57081544;fill:currentColor;stroke:currentColor"
+     id="use359"
+     y="483.07999"
+     x="1086.71"
+     xlink:href="#MOD-WiFi-ESP8266_Rev_A_pad-31"
+     width="744.09448"
+     height="1052.3622"
+     transform="matrix(1,0,0,-1,0.01224983,1245.5435)" />
+  <use
+     style="opacity:0.57081544;fill:currentColor;stroke:currentColor"
+     id="use361"
+     y="513.08002"
+     x="1076.71"
+     xlink:href="#MOD-WiFi-ESP8266_Rev_A_pad-31"
+     width="744.09448"
+     height="1052.3622"
+     transform="matrix(1,0,0,-1,0.01224983,1245.5435)" />
+  <use
+     style="opacity:0.57081544;fill:currentColor;stroke:currentColor"
+     id="use363"
+     y="533.08002"
+     x="1051.71"
+     xlink:href="#MOD-WiFi-ESP8266_Rev_A_pad-31"
+     width="744.09448"
+     height="1052.3622"
+     transform="matrix(1,0,0,-1,0.01224983,1245.5435)" />
+  <use
+     style="opacity:0.57081544;fill:currentColor;stroke:currentColor"
+     id="use365"
+     y="553.08002"
+     x="1026.71"
+     xlink:href="#MOD-WiFi-ESP8266_Rev_A_pad-31"
+     width="744.09448"
+     height="1052.3622"
+     transform="matrix(1,0,0,-1,0.01224983,1245.5435)" />
+  <use
+     style="opacity:0.57081544;fill:currentColor;stroke:currentColor"
+     id="use367"
+     y="613.08002"
+     x="1011.71"
+     xlink:href="#MOD-WiFi-ESP8266_Rev_A_pad-31"
+     width="744.09448"
+     height="1052.3622"
+     transform="matrix(1,0,0,-1,0.01224983,1245.5435)" />
+  <use
+     style="opacity:0.57081544;fill:currentColor;stroke:currentColor"
+     id="use369"
+     y="563.08002"
+     x="1116.71"
+     xlink:href="#MOD-WiFi-ESP8266_Rev_A_pad-31"
+     width="744.09448"
+     height="1052.3622"
+     transform="matrix(1,0,0,-1,0.01224983,1245.5435)" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Cu">
+    <path
+       sodipodi:nodetypes="ccsccccsssccccsc"
+       inkscape:connector-curvature="0"
+       d="m 994.92935,396.75206 -0.2946,36.37019 c -0.044,3.28051 2.8301,6.29758 6.00005,6.29758 3.17,0 6.0445,-3.01707 6,-6.29758 l 0.3499,-24.74454 85.0552,-0.5342 40,0 c 3.1699,0.0448 6.3382,-1.22829 8.5957,-3.45405 2.2574,-2.22576 3.5753,-5.37575 3.5753,-8.54595 0,-3.1702 -1.3179,-6.32019 -3.5753,-8.54595 -2.2575,-2.22576 -5.4258,-3.4989 -8.5957,-3.45405 l -39.1876,0 c -0.2707,-0.009 -0.5417,-0.009 -0.8124,0 l -85,0 c -3.1699,-0.0448 -6.3382,1.22829 -8.59565,3.45405 -2.2575,2.22576 -3.5753,5.37575 -3.5753,8.54595"
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12.00000095;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       id="path4783" />
+    <path
+       id="path373-0"
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12.00000095;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       d="m 1266.931,383.30082 c -3.2637,0.0667 -6.4818,1.46489 -8.75,3.81245 -3.0773,3.16718 -2.7577,7.45567 -3.5307,10.99871 l 0,272.875 c -0.044,3.30189 1.2796,6.60223 3.598,8.95378 2.3186,2.35145 5.5998,3.72422 8.902,3.72422 3.3024,0 6.5836,-1.37277 8.902,-3.72422 2.3186,-2.35155 3.6448,-5.65189 3.598,-8.95378 l 0,-262.5 215.0001,0 0,20 -142.5001,0 c -3.2723,3.4e-4 -6.5244,1.34756 -8.8384,3.66145 -2.3139,2.314 -3.6612,5.56611 -3.6616,8.83855 l 0,45 c 4e-4,3.27234 1.3477,6.52445 3.6616,8.83845 2.314,2.31388 5.5661,3.66122 8.8384,3.66155 l 142.5001,0 0,20 -142.5001,0 c -3.2723,3.3e-4 -6.5244,1.34756 -8.8384,3.66145 -2.3139,2.314 -3.6612,5.56611 -3.6616,8.83855 l 0,45 c 4e-4,3.27234 1.3477,6.52445 3.6616,8.83845 2.314,2.31389 5.5661,3.66122 8.8384,3.66155 l 142.5001,0 0,20 -142.5001,0 c -3.2723,3.4e-4 -6.5244,1.34756 -8.8384,3.66145 -2.3139,2.314 -3.6612,5.56611 -3.6616,8.83855 l 0,42.90623 c -0.6044,3.58655 0.4534,7.41911 2.8125,10.18744 0.1211,0.14889 0.2466,0.29444 0.3744,0.43778 0.1811,0.19333 0.3689,0.38111 0.5622,0.56222 2.7735,2.70978 6.8576,4.01144 10.6875,3.40633 l 140.5626,0 0,142.50001 c -0.044,3.30188 1.2795,6.60222 3.598,8.95377 2.3185,2.35145 5.5996,3.72423 8.902,3.72423 3.3023,0 6.5835,-1.37278 8.902,-3.72423 2.3185,-2.35155 3.6446,-5.65189 3.598,-8.95377 l 0,-155.00001 c -4e-4,-3.27244 -1.3476,-6.52455 -3.6615,-8.83855 -2.314,-2.31389 -5.5661,-3.66111 -8.8385,-3.66145 l -142.5001,0 0,-20 142.5001,0 c 3.2724,-3.3e-4 6.5245,-1.34766 8.8385,-3.66155 2.3139,-2.314 3.6611,-5.56611 3.6615,-8.83845 l 0,-45 c -4e-4,-3.27244 -1.3476,-6.52455 -3.6615,-8.83855 -2.314,-2.31389 -5.5661,-3.66111 -8.8385,-3.66145 l -142.5001,0 0,-20 142.5001,0 c 3.2724,-3.3e-4 6.5245,-1.34766 8.8385,-3.66155 2.3139,-2.314 3.6611,-5.56611 3.6615,-8.83845 l 0,-45 c 5e-4,-3.27244 -1.3468,-6.52455 -3.6607,-8.83855 -2.314,-2.31389 -5.5661,-3.66111 -8.8384,-3.66145 l -142.5001,0 0,-20 142.5001,0 c 3.2723,-3.3e-4 6.5244,-1.34766 8.8384,-3.66155 2.3139,-2.314 3.6612,-5.56611 3.6616,-8.83845 l 0,-45 c -4e-4,-3.27244 -1.3477,-6.52455 -3.6616,-8.83855 -2.314,-2.31389 -5.5661,-3.66111 -8.8384,-3.66145 l -237.9688,0 c -0.7744,-0.16626 -1.5849,-0.1311 -2.2506,-0.18616 z"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccssscccccsccsccccsccsccccsccccccccsssccsccccsccsccccsccsccccsccsccc" />
+    <path
+       id="path4785"
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:12.00000095000000044;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       d="m 1172.0399,383.84351 c -3.1699,-0.0448 -6.3382,1.22829 -8.5957,3.45405 -2.2574,2.22576 -3.5753,5.37575 -3.5753,8.54595 0,3.1702 1.3179,6.32019 3.5753,8.54595 2.2575,2.22576 5.4258,3.4989 8.5957,3.45405 l 70,0 c 3.1699,0.0448 24.3265,-0.0731 29.3895,-0.15345 3.1697,-0.0503 2.9428,-9.4828 2.9428,-12.653 0,-3.1702 13.9087,-11.39706 6.959,-11.53519 -3.1696,-0.063 -36.1214,0.29676 -39.2913,0.34166 z"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csssccssscc" />
+  </g>
+</svg>
