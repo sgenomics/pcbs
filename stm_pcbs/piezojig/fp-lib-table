@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name sma)(type Legacy)(uri /home/new/gitcode/pcbs/stmshield/stmshieldfull/sma_connectors/modules/sma.mod)(options "")(descr ""))
+)
