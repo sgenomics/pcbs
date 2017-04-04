@@ -3,7 +3,7 @@
   (general
     (links 100)
     (no_connects 0)
-    (area 152.218619 13.821 281.551858 127.000001)
+    (area 152.218619 13.821 283.429 127.000001)
     (thickness 1.6)
     (drawings 23)
     (tracks 291)
@@ -2460,12 +2460,12 @@
     )
   )
 
-  (module LEDs:LED-5MM (layer B.Cu) (tedit 567AE34C) (tstamp 567AB5FA)
+  (module LEDs:LED-5MM (layer B.Cu) (tedit 569827F7) (tstamp 567AB5FA)
     (at 206 38 180)
     (descr "LED 5mm round vertical")
     (tags "LED 5mm round vertical")
     (path /567B100A)
-    (fp_text reference D15 (at 1.524 -4.064 180) (layer B.SilkS)
+    (fp_text reference D15 (at 40.3 24.2 180) (layer B.SilkS) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_text value LED (at 1.524 3.937 180) (layer B.Fab)
