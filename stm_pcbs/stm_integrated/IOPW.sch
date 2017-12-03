@@ -144,7 +144,7 @@ F 3 "" H 7450 5000 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L GND #PWR?
+L power:GND #PWR?
 U 1 1 5A23531C
 P 5550 4400
 AR Path="/5A23531C" Ref="#PWR?"  Part="1" 
@@ -157,7 +157,7 @@ F 3 "" H 5550 4400 60  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L GND #PWR?
+L power:GND #PWR?
 U 1 1 5A235335
 P 7700 5000
 AR Path="/5A235335" Ref="#PWR?"  Part="1" 
