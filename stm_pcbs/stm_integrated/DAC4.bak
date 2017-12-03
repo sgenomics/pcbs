@@ -107,8 +107,6 @@ Text GLabel 5700 2050 2    60   Input ~ 0
 +14V
 Text GLabel 5450 4850 2    60   Input ~ 0
 -14V
-Text GLabel 4350 2400 0    60   Input ~ 0
-3.3V
 $Comp
 L power:AGND #PWR038
 U 1 1 5A260677
@@ -444,15 +442,11 @@ Wire Wire Line
 Wire Wire Line
 	7950 3650 7950 3800
 Wire Wire Line
-	5700 2050 5700 2200
-Wire Wire Line
 	5400 4700 5400 4850
 Wire Wire Line
 	5400 4850 5450 4850
 Wire Wire Line
 	4900 2400 4900 2600
-Wire Wire Line
-	4350 2400 4550 2400
 Wire Wire Line
 	4750 2400 4750 2600
 Connection ~ 4750 2400
@@ -466,9 +460,6 @@ Wire Wire Line
 	5700 2350 5350 2350
 Wire Wire Line
 	5350 2350 5350 2600
-Wire Wire Line
-	5700 2200 5800 2200
-Connection ~ 5700 2200
 Wire Wire Line
 	5750 2450 5750 2300
 Wire Wire Line
@@ -523,8 +514,6 @@ Wire Wire Line
 	7350 5800 7350 5950
 Connection ~ 7350 5800
 Wire Wire Line
-	7850 5950 7850 5800
-Wire Wire Line
 	7700 5250 7700 5150
 Wire Wire Line
 	7700 5150 8700 5150
@@ -534,11 +523,7 @@ Connection ~ 8700 5250
 Wire Wire Line
 	8850 5700 9100 5700
 Wire Wire Line
-	8850 5600 8850 5650
-Wire Wire Line
 	8850 6250 9100 6250
-Wire Wire Line
-	8850 6150 8850 6200
 Wire Wire Line
 	3300 4100 3950 4100
 Wire Wire Line
@@ -613,51 +598,15 @@ Wire Wire Line
 Wire Wire Line
 	7000 4550 7000 4650
 Wire Wire Line
-	7700 3650 7700 3700
-Wire Wire Line
-	7700 4050 7700 4000
-Wire Wire Line
-	7500 4550 7400 4550
-Wire Wire Line
-	7100 4550 7000 4550
-Wire Wire Line
-	6250 4600 6300 4600
-Wire Wire Line
-	5950 4600 5900 4600
-Wire Wire Line
-	7700 2900 7700 2950
-Wire Wire Line
-	7700 3300 7700 3250
-Wire Wire Line
-	3950 2050 3950 2100
-Wire Wire Line
-	3950 1750 3950 1700
-Wire Wire Line
-	6100 2200 6150 2200
-Wire Wire Line
 	3300 3200 3950 3200
 Wire Wire Line
 	7500 4150 7500 4050
-Wire Wire Line
-	7450 5400 7450 5450
-Wire Wire Line
-	7450 5800 7450 5750
-Wire Wire Line
-	7200 5800 7200 5750
-Wire Wire Line
-	7200 5450 7200 5400
-Wire Wire Line
-	8850 5800 8850 5850
 Connection ~ 8850 6200
 Connection ~ 8850 5650
-Wire Wire Line
-	8850 5250 8850 5300
 Wire Wire Line
 	7250 3450 7800 3450
 Wire Wire Line
 	4750 2400 4900 2400
-Wire Wire Line
-	5700 2200 5700 2300
 Wire Wire Line
 	5700 2300 5700 2350
 Wire Wire Line
@@ -689,17 +638,58 @@ Wire Wire Line
 Wire Wire Line
 	8850 5650 8850 5700
 Wire Wire Line
-	7850 5800 8850 5800
+	7850 5800 8600 5800
 Wire Wire Line
-	7400 3300 7700 3300
+	7400 3300 7500 3300
 Wire Wire Line
-	3950 2100 4550 2100
+	3950 2100 4200 2100
 Wire Wire Line
 	7350 5950 7800 5950
 Wire Wire Line
-	7800 5950 7900 5950
+	7800 5950 7850 5950
 Wire Wire Line
-	6950 2900 7700 2900
+	6950 2900 7500 2900
 Wire Wire Line
-	6950 3650 7700 3650
+	6950 3650 7500 3650
+$Comp
+L power:+5V #PWR?
+U 1 1 5A4F308A
+P 4300 2400
+F 0 "#PWR?" H 4300 2490 20  0001 C CNN
+F 1 "+5V" H 4296 2528 30  0000 C CNN
+F 2 "" H 4300 2400 60  0001 C CNN
+F 3 "" H 4300 2400 60  0001 C CNN
+	1    4300 2400
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4300 2400 4550 2400
+Connection ~ 7500 3650
+Wire Wire Line
+	7500 3650 7700 3650
+Connection ~ 7500 4050
+Connection ~ 7500 2900
+Wire Wire Line
+	7500 2900 7700 2900
+Connection ~ 7500 3300
+Wire Wire Line
+	7500 3300 7700 3300
+Wire Wire Line
+	7850 5800 7850 5950
+Connection ~ 7850 5950
+Wire Wire Line
+	7850 5950 7900 5950
+Connection ~ 8600 5800
+Wire Wire Line
+	8600 5800 8850 5800
+Connection ~ 4200 2100
+Wire Wire Line
+	4200 2100 4550 2100
+Wire Wire Line
+	5700 2050 5700 2200
+Wire Wire Line
+	5750 2200 5700 2200
+Connection ~ 5700 2200
+Wire Wire Line
+	5700 2200 5700 2300
 $EndSCHEMATC

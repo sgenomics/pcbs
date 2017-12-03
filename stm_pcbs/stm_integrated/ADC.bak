@@ -61,12 +61,12 @@ $EndComp
 $Comp
 L power:DGND #PWR062
 U 1 1 5A233E19
-P 6400 3450
-F 0 "#PWR062" H 6400 3450 40  0001 C CNN
-F 1 "DGND" H 6400 3380 40  0000 C CNN
-F 2 "" H 6400 3450 60  0000 C CNN
-F 3 "" H 6400 3450 60  0000 C CNN
-	1    6400 3450
+P 6750 3350
+F 0 "#PWR062" H 6750 3350 40  0001 C CNN
+F 1 "DGND" H 6750 3280 40  0000 C CNN
+F 2 "" H 6750 3350 60  0000 C CNN
+F 3 "" H 6750 3350 60  0000 C CNN
+	1    6750 3350
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -300,10 +300,6 @@ Wire Wire Line
 	6550 4050 6550 4100
 Connection ~ 6150 4050
 Wire Wire Line
-	5900 3350 6400 3350
-Wire Wire Line
-	6400 3350 6400 3450
-Wire Wire Line
 	6150 4650 6150 4800
 Wire Wire Line
 	6150 4150 6150 4350
@@ -347,8 +343,6 @@ Connection ~ 3950 3050
 Wire Wire Line
 	5250 5500 5250 5650
 Connection ~ 5250 5500
-Wire Wire Line
-	5900 2800 5900 3050
 Wire Wire Line
 	8400 4300 8400 4450
 Wire Wire Line
@@ -405,4 +399,30 @@ Wire Wire Line
 	3250 5400 3250 5450
 Wire Wire Line
 	3950 3500 3950 3600
+Text GLabel 6050 2950 2    60   Input ~ 0
+ADC_CONVST
+Text GLabel 6050 3050 2    60   Input ~ 0
+ADC_RD
+Text GLabel 6050 3550 2    60   Input ~ 0
+ADC_BUSY
+Text GLabel 6050 3150 2    60   Input ~ 0
+SCLK
+Text GLabel 6050 3250 2    60   Input ~ 0
+SDIN
+Text GLabel 6050 3450 2    60   Input ~ 0
+SDO
+Wire Wire Line
+	5900 3350 6750 3350
+Wire Wire Line
+	6050 2950 5900 2950
+Wire Wire Line
+	5900 3050 6050 3050
+Wire Wire Line
+	6050 3150 5900 3150
+Wire Wire Line
+	5900 3250 6050 3250
+Wire Wire Line
+	6050 3450 5900 3450
+Wire Wire Line
+	5900 3550 6050 3550
 $EndSCHEMATC

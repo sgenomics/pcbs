@@ -107,8 +107,6 @@ Text GLabel 5600 2050 2    60   Input ~ 0
 +14V
 Text GLabel 5350 4950 2    60   Input ~ 0
 -14V
-Text GLabel 4250 2400 0    60   Input ~ 0
-3.3V
 $Comp
 L power:AGND #PWR014
 U 1 1 5A25DBF0
@@ -158,14 +156,14 @@ $EndComp
 $Comp
 L device:C C21
 U 1 1 5A25DC09
-P 6000 4700
+P 6000 4650
 AR Path="/5A25DC09" Ref="C21"  Part="1" 
 AR Path="/5A25907D/5A25DC09" Ref="C21"  Part="1" 
-F 0 "C21" H 6000 4800 40  0000 L CNN
-F 1 "0.1uF" H 6006 4615 40  0000 L CNN
-F 2 "Capacitors_SMD:C_0805_HandSoldering" H 6038 4550 30  0001 C CNN
-F 3 "" H 6000 4700 60  0000 C CNN
-	1    6000 4700
+F 0 "C21" H 6000 4750 40  0000 L CNN
+F 1 "0.1uF" H 6006 4565 40  0000 L CNN
+F 2 "Capacitors_SMD:C_0805_HandSoldering" H 6038 4500 30  0001 C CNN
+F 3 "" H 6000 4650 60  0000 C CNN
+	1    6000 4650
 	0    1    1    0   
 $EndComp
 $Comp
@@ -306,14 +304,14 @@ $EndComp
 $Comp
 L device:CP1 C22
 U 1 1 5A25DC67
-P 6000 4950
+P 6000 5000
 AR Path="/5A25DC67" Ref="C22"  Part="1" 
 AR Path="/5A25907D/5A25DC67" Ref="C22"  Part="1" 
-F 0 "C22" H 6000 5050 40  0000 L CNN
-F 1 "10uF" H 6006 4865 40  0000 L CNN
-F 2 "stm:SMD-1210_Pol" H 6038 4800 30  0001 C CNN
-F 3 "" H 6000 4950 60  0000 C CNN
-	1    6000 4950
+F 0 "C22" H 6000 5100 40  0000 L CNN
+F 1 "10uF" H 6006 4915 40  0000 L CNN
+F 2 "stm:SMD-1210_Pol" H 6038 4850 30  0001 C CNN
+F 3 "" H 6000 5000 60  0000 C CNN
+	1    6000 5000
 	0    1    1    0   
 $EndComp
 $Comp
@@ -476,8 +474,6 @@ Wire Wire Line
 Wire Wire Line
 	7850 3750 7850 3900
 Wire Wire Line
-	5600 2050 5600 2300
-Wire Wire Line
 	5300 4800 5300 4950
 Wire Wire Line
 	5300 4950 5350 4950
@@ -491,8 +487,6 @@ Wire Wire Line
 	4400 2500 4400 2400
 Connection ~ 4650 2500
 Wire Wire Line
-	4400 2400 4250 2400
-Wire Wire Line
 	4850 5000 4850 4800
 Wire Wire Line
 	4600 5000 4700 5000
@@ -502,9 +496,6 @@ Wire Wire Line
 	5600 2450 5250 2450
 Wire Wire Line
 	5250 2450 5250 2700
-Wire Wire Line
-	5600 2300 5700 2300
-Connection ~ 5600 2300
 Wire Wire Line
 	5650 2550 5650 2400
 Wire Wire Line
@@ -519,10 +510,6 @@ Wire Wire Line
 Connection ~ 6050 2400
 Wire Wire Line
 	5300 4800 5800 4800
-Wire Wire Line
-	5800 4700 5800 4800
-Wire Wire Line
-	6200 4700 6200 4800
 Connection ~ 5800 4800
 Wire Wire Line
 	6400 4850 6400 4800
@@ -614,14 +601,14 @@ Connection ~ 6850 3900
 $Comp
 L device:R R2
 U 1 1 5A25DD1F
-P 7150 4650
+P 7150 4550
 AR Path="/5A25DD1F" Ref="R2"  Part="1" 
 AR Path="/5A25907D/5A25DD1F" Ref="R2"  Part="1" 
-F 0 "R2" V 7230 4650 40  0000 C CNN
-F 1 "0" V 7157 4651 40  0000 C CNN
-F 2 "stm:0Ohm" V 7080 4650 30  0001 C CNN
-F 3 "" H 7150 4650 30  0000 C CNN
-	1    7150 4650
+F 0 "R2" V 7230 4550 40  0000 C CNN
+F 1 "0" V 7157 4551 40  0000 C CNN
+F 2 "stm:0Ohm" V 7080 4550 30  0001 C CNN
+F 3 "" H 7150 4550 30  0000 C CNN
+	1    7150 4550
 	0    1    1    0   
 $EndComp
 $Comp
@@ -647,31 +634,9 @@ F 3 "" H 7400 4750 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	7400 4750 7400 4650
-Wire Wire Line
-	6900 4650 6900 4750
-Wire Wire Line
-	7600 3750 7600 3800
-Wire Wire Line
-	7600 4150 7600 4100
-Wire Wire Line
-	7400 4650 7300 4650
-Wire Wire Line
-	7000 4650 6900 4650
-Wire Wire Line
-	6150 4700 6200 4700
-Wire Wire Line
-	5850 4700 5800 4700
-Wire Wire Line
-	7600 3000 7600 3050
-Wire Wire Line
-	7600 3400 7600 3350
-Wire Wire Line
 	3850 2150 3850 2200
 Wire Wire Line
 	3850 1850 3850 1800
-Wire Wire Line
-	6000 2300 6050 2300
 Wire Wire Line
 	3200 3300 3850 3300
 Wire Wire Line
@@ -695,15 +660,9 @@ Wire Wire Line
 Wire Wire Line
 	4650 2500 4800 2500
 Wire Wire Line
-	5600 2300 5600 2400
-Wire Wire Line
 	5600 2400 5600 2450
 Wire Wire Line
 	6050 2400 6050 2550
-Wire Wire Line
-	5800 4800 5800 4950
-Wire Wire Line
-	6200 4800 6200 4950
 Wire Wire Line
 	4450 2500 4650 2500
 Wire Wire Line
@@ -727,17 +686,66 @@ Wire Wire Line
 Wire Wire Line
 	8750 5750 8750 5800
 Wire Wire Line
-	3850 2200 4450 2200
+	3850 2200 4100 2200
 Wire Wire Line
 	7250 6050 7700 6050
 Wire Wire Line
 	7700 6050 7800 6050
 Wire Wire Line
-	6850 3000 7600 3000
+	6850 3000 7400 3000
 Wire Wire Line
-	6850 3750 7600 3750
+	6850 3750 7400 3750
 Wire Wire Line
 	7750 5900 8750 5900
 Wire Wire Line
-	7300 3400 7600 3400
+	7300 3400 7400 3400
+Wire Wire Line
+	7400 4550 7400 4750
+Wire Wire Line
+	6900 4550 6900 4750
+Wire Wire Line
+	6200 4800 6200 5000
+Wire Wire Line
+	5800 4800 5800 5000
+Wire Wire Line
+	6200 4650 6200 4800
+Wire Wire Line
+	5800 4650 5800 4800
+Connection ~ 7400 3000
+Wire Wire Line
+	7400 3000 7600 3000
+Connection ~ 7400 3400
+Wire Wire Line
+	7400 3400 7600 3400
+Connection ~ 7400 3750
+Wire Wire Line
+	7400 3750 7600 3750
+Connection ~ 7400 4150
+Wire Wire Line
+	5600 2050 5600 2300
+Wire Wire Line
+	5650 2300 5600 2300
+Connection ~ 5600 2300
+Wire Wire Line
+	5600 2300 5600 2400
+Connection ~ 4100 2200
+Wire Wire Line
+	4100 2200 4450 2200
+Connection ~ 3850 1800
+Connection ~ 3850 2200
+Connection ~ 7350 5500
+Connection ~ 7350 5900
+$Comp
+L power:+5V #PWR?
+U 1 1 5A4D419F
+P 4200 2400
+F 0 "#PWR?" H 4200 2490 20  0001 C CNN
+F 1 "+5V" H 4196 2528 30  0000 C CNN
+F 2 "" H 4200 2400 60  0001 C CNN
+F 3 "" H 4200 2400 60  0001 C CNN
+	1    4200 2400
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4200 2400 4400 2400
 $EndSCHEMATC
