@@ -2,4 +2,6 @@
   (lib (name ad5791)(type Legacy)(uri ${KIPRJMOD}/ad5791.lib)(options "")(descr ""))
   (lib (name LTC1859)(type Legacy)(uri ${KIPRJMOD}/LTC1859.lib)(options "")(descr ""))
   (lib (name adr445)(type Legacy)(uri ${KIPRJMOD}/adr445.lib)(options "")(descr ""))
+  (lib (name stmshieldfull-rescue)(type Legacy)(uri ${KIPRJMOD}/stmshieldfull-rescue.lib)(options "")(descr ""))
+  (lib (name A9_REFERENCE)(type Legacy)(uri /home/new/gitcode/pcbs/stm_pcbs/stm_integrated/A9_REFERENCE.lib)(options "")(descr ""))
 )

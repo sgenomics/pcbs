@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name stm)(type KiCad)(uri ${KIPRJMOD}/../stmshieldfull.pretty)(options "")(descr ""))
+  (lib (name A9_REFERENCE)(type KiCad)(uri "$(KIPRJMOD)/A9_REFERENCE.pretty")(options "")(descr ""))
 )

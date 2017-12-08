@@ -557,8 +557,6 @@ Connection ~ 8600 5350
 Wire Wire Line
 	8750 5800 9000 5800
 Wire Wire Line
-	8750 5700 8750 5750
-Wire Wire Line
 	8750 6350 9000 6350
 Wire Wire Line
 	8750 6250 8750 6300
@@ -653,8 +651,6 @@ Wire Wire Line
 	8750 5900 8750 5950
 Connection ~ 8750 6300
 Connection ~ 8750 5750
-Wire Wire Line
-	8750 5350 8750 5400
 Wire Wire Line
 	7150 3550 7700 3550
 Wire Wire Line
