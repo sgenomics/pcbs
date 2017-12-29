@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name 0)(type KiCad)(uri "$(KIPRJMOD)/0.pretty")(options "")(descr ""))
+  (lib (name A9_REFERENCE)(type KiCad)(uri /home/new/gitcode/pcbs/stm_pcbs/stm_integrated/A9_REFERENCE.pretty)(options "")(descr ""))
+  (lib (name conn5r)(type KiCad)(uri "$(KIPRJMOD)/conn5r.pretty")(options "")(descr ""))
+)

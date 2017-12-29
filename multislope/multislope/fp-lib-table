@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name 4mm_banana)(type KiCad)(uri /home/new/gitcode/pcbs/stm_pcbs/stm_integrated_interface/4mm_banana.pretty)(options "")(descr ""))
+  (lib (name A9_REFERENCE)(type KiCad)(uri /home/new/gitcode/pcbs/stm_pcbs/stm_integrated/A9_REFERENCE.pretty)(options "")(descr ""))
+)

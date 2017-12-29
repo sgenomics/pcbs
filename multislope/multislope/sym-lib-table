@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name A9_REFERENCE)(type Legacy)(uri /home/new/gitcode/pcbs/stm_pcbs/stm_integrated/A9_REFERENCE.lib)(options "")(descr ""))
+  (lib (name lt1013)(type Legacy)(uri /home/new/gitcode/pcbs/stm_pcbs/a9ref/a9ref/lt1013.lib)(options "")(descr ""))
+  (lib (name 4mm_banana)(type Legacy)(uri /home/new/gitcode/pcbs/stm_pcbs/stm_integrated_interface/4mm_banana.lib)(options "")(descr ""))
+  (lib (name dg411)(type Legacy)(uri ${KIPRJMOD}/dg411.lib)(options "")(descr ""))
+  (lib (name AD711)(type Legacy)(uri /home/new/gitcode/pcbs/multislope/multislope/AD711.lib)(options "")(descr ""))
+)

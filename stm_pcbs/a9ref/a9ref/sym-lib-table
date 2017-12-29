@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name lt1013)(type Legacy)(uri /home/new/gitcode/pcbs/stm_pcbs/a9ref/a9ref/lt1013.lib)(options "")(descr ""))
+  (lib (name 2n3904)(type Legacy)(uri /home/new/gitcode/pcbs/stm_pcbs/a9ref/a9ref/2n3904.lib)(options "")(descr ""))
+  (lib (name LTZ1000A)(type Legacy)(uri /home/new/gitcode/pcbs/stm_pcbs/a9ref/a9ref/LTZ1000A.lib)(options "")(descr ""))
+)
