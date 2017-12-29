@@ -4898,7 +4898,7 @@
   (gr_text DAC2 (at 153.998 150.365) (layer F.SilkS) (tstamp 5A42D53F)
     (effects (font (size 1.5 1.5) (thickness 0.3)))
   )
-  (gr_text "STM INTEGRATED R4" (at 94.998 40.365) (layer F.SilkS)
+  (gr_text "STM INTEGRATED R4a" (at 94.998 40.365) (layer F.SilkS)
     (effects (font (size 1.5 1.5) (thickness 0.3)))
   )
   (gr_line (start 157.998 36.865) (end 219.998 36.865) (angle 90) (layer Edge.Cuts) (width 0.15))
