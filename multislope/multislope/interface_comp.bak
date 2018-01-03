@@ -1,0 +1,178 @@
+EESchema Schematic File Version 4
+LIBS:multislope-cache
+EELAYER 26 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 2 2
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Text GLabel 9700 3150 1    60   Input ~ 0
+SCLK
+Text GLabel 9600 3150 1    60   Input ~ 0
+SDIN
+Text GLabel 9500 3150 1    60   Input ~ 0
+SDO
+Wire Wire Line
+	9700 5250 9700 4600
+Wire Wire Line
+	9600 5250 9600 4600
+Wire Wire Line
+	9500 5250 9500 4600
+Wire Wire Line
+	9700 3800 9700 3150
+Wire Wire Line
+	9600 3150 9600 3800
+Wire Wire Line
+	9500 3150 9500 3800
+Wire Wire Line
+	9400 5250 9400 4600
+Wire Wire Line
+	9300 5250 9300 4600
+Wire Wire Line
+	9200 5250 9200 4600
+Wire Wire Line
+	9100 5250 9100 4600
+Wire Wire Line
+	9000 5250 9000 4600
+Wire Wire Line
+	8900 5250 8900 4600
+Wire Wire Line
+	8800 5250 8800 4600
+Wire Wire Line
+	8700 5250 8700 4600
+Wire Wire Line
+	8600 5250 8600 4600
+Wire Wire Line
+	9400 3150 9400 3800
+Wire Wire Line
+	9300 3150 9300 3800
+Wire Wire Line
+	9200 3150 9200 3800
+Wire Wire Line
+	9100 3150 9100 3800
+Wire Wire Line
+	9000 3150 9000 3800
+Wire Wire Line
+	8900 3150 8900 3800
+Wire Wire Line
+	8800 3150 8800 3800
+$Comp
+L power:GND #PWR0102
+U 1 1 5A7EC9F6
+P 8400 4750
+F 0 "#PWR0102" H 8400 4750 30  0001 C CNN
+F 1 "GND" H 8400 4680 30  0001 C CNN
+F 2 "" H 8400 4750 60  0001 C CNN
+F 3 "" H 8400 4750 60  0001 C CNN
+	1    8400 4750
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8550 3500 8550 3450
+Wire Wire Line
+	8550 3450 8700 3450
+Wire Wire Line
+	8700 3450 8700 3800
+Wire Wire Line
+	8700 3800 8600 3800
+Wire Wire Line
+	8400 4600 8400 4750
+Wire Wire Line
+	8400 3800 8400 4600
+Wire Wire Line
+	8200 3800 8200 4600
+Wire Wire Line
+	7800 4600 7800 4700
+Wire Wire Line
+	7800 3800 7800 4600
+Wire Wire Line
+	8000 4600 8000 4700
+Wire Wire Line
+	8000 3800 8000 4600
+Connection ~ 8400 4600
+Connection ~ 8000 4600
+Connection ~ 8700 3800
+Connection ~ 7800 4600
+$Comp
+L conn:CONN_20X2 P1
+U 1 1 5A7EC9CC
+P 8750 4200
+F 0 "P1" V 8705 5227 60  0000 L CNN
+F 1 "CONN_20X2" V 8803 5227 50  0000 L CNN
+F 2 "Connectors_IDC:IDC-Header_2x20_Pitch2.54mm_Straight" H 8750 4200 60  0001 C CNN
+F 3 "" H 8750 4200 60  0000 C CNN
+	1    8750 4200
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR0103
+U 1 1 5A819B80
+P 8550 3500
+F 0 "#PWR0103" H 8550 3500 30  0001 C CNN
+F 1 "GND" H 8550 3430 30  0001 C CNN
+F 2 "" H 8550 3500 60  0001 C CNN
+F 3 "" H 8550 3500 60  0001 C CNN
+	1    8550 3500
+	1    0    0    -1  
+$EndComp
+Text GLabel 8900 5250 3    60   Input ~ 0
+CMP_OUT
+$Comp
+L power:+12V #PWR032
+U 1 1 5A8B6EB9
+P 7800 4700
+F 0 "#PWR032" H 7800 4650 20  0001 C CNN
+F 1 "+12V" H 7800 4837 30  0000 C CNN
+F 2 "" H 7800 4700 60  0001 C CNN
+F 3 "" H 7800 4700 60  0001 C CNN
+	1    7800 4700
+	-1   0    0    1   
+$EndComp
+$Comp
+L power:-12V #PWR033
+U 1 1 5A8B6FE5
+P 8000 4700
+F 0 "#PWR033" H 8000 4830 20  0001 C CNN
+F 1 "-12V" H 8000 4837 30  0000 C CNN
+F 2 "" H 8000 4700 60  0001 C CNN
+F 3 "" H 8000 4700 60  0001 C CNN
+	1    8000 4700
+	-1   0    0    1   
+$EndComp
+Text GLabel 9700 5250 3    60   Input ~ 0
+SW_RST
+Text GLabel 9000 5250 3    60   Input ~ 0
+SW_REF1A
+Text GLabel 9100 5250 3    60   Input ~ 0
+SW_REF1B
+Text GLabel 9200 5250 3    60   Input ~ 0
+SW_REF2A
+Text GLabel 9300 5250 3    60   Input ~ 0
+SW_REF2B
+Text GLabel 9400 5250 3    60   Input ~ 0
+SW_INPUT1
+Text GLabel 9500 5250 3    60   Input ~ 0
+SW_INPUT2
+$Comp
+L power:+5V #PWR016
+U 1 1 5A5D5733
+P 8200 4700
+F 0 "#PWR016" H 8200 4790 20  0001 C CNN
+F 1 "+5V" H 8197 4827 30  0000 C CNN
+F 2 "" H 8200 4700 60  0001 C CNN
+F 3 "" H 8200 4700 60  0001 C CNN
+	1    8200 4700
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	8200 4700 8200 4600
+Connection ~ 8200 4600
+$EndSCHEMATC
