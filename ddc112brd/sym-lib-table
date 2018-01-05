@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name ddc112)(type Legacy)(uri /home/new/gitcode/pcbs/ddc112brd/ddc112.lib)(options "")(descr ""))
+  (lib (name A9_REFERENCE)(type Legacy)(uri /home/new/gitcode/pcbs/stm_pcbs/stm_integrated/A9_REFERENCE.lib)(options "")(descr ""))
+  (lib (name ad5791)(type Legacy)(uri /home/new/gitcode/pcbs/stm_pcbs/stm_integrated/ad5791.lib)(options "")(descr ""))
+  (lib (name TXCO)(type Legacy)(uri /home/new/gitcode/pcbs/ddc112brd/TXCO.lib)(options "")(descr ""))
+)

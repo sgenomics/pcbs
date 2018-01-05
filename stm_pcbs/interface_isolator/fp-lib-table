@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name Arduino_Shields)(type Legacy)(uri "$(KIPRJMOD)/Arduino_Shields.mod")(options "")(descr ""))
+  (lib (name 4mm_banana)(type KiCad)(uri "$(KIPRJMOD)/4mm_banana.pretty")(options "")(descr ""))
+)

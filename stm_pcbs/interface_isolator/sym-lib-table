@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name arduino_shields)(type Legacy)(uri ${KIPRJMOD}/arduino_shields.lib)(options "")(descr ""))
+  (lib (name stmshieldfull-rescue)(type Legacy)(uri /home/new/gitcode/pcbs/stm_pcbs/stm_integrated/stmshieldfull-rescue.lib)(options "")(descr ""))
+  (lib (name LTC1859)(type Legacy)(uri /home/new/gitcode/pcbs/stm_pcbs/stm_integrated/LTC1859.lib)(options "")(descr ""))
+  (lib (name 4mm_banana)(type Legacy)(uri /home/new/gitcode/pcbs/stm_pcbs/stm_integrated_interface/4mm_banana.lib)(options "")(descr ""))
+  (lib (name si8441)(type Legacy)(uri /home/new/gitcode/pcbs/stm_pcbs/interface_isolator/si8441.lib)(options "")(descr ""))
+)

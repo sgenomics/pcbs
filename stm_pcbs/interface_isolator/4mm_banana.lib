@@ -1,0 +1,15 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# 4mm_banana
+#
+DEF 4mm_banana P 0 40 Y Y 1 F N
+F0 "P" 0 300 60 H V C CNN
+F1 "4mm_banana" 0 -300 60 H V C CNN
+F2 "" 0 0 60 H I C CNN
+F3 "" 0 0 60 H I C CNN
+DRAW
+ENDDRAW
+ENDDEF
+#
+#End Library
