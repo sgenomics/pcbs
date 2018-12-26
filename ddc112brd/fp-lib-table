@@ -1,6 +1,5 @@
 (fp_lib_table
   (lib (name TXCO)(type KiCad)(uri "$(KIPRJMOD)/TXCO.pretty")(options "")(descr ""))
   (lib (name stmshieldfull)(type KiCad)(uri /home/new/gitcode/pcbs/stm_pcbs/stmshieldfull.pretty)(options "")(descr ""))
-  (lib (name sma)(type Legacy)(uri /home/new/gitcode/pcbs/stm_pcbs/stm_integrated/sma_connectors/modules/sma.mod)(options "")(descr ""))
   (lib (name A9_REFERENCE)(type KiCad)(uri /home/new/gitcode/pcbs/stm_pcbs/stm_integrated/A9_REFERENCE.pretty)(options "")(descr ""))
 )
