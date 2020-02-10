@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AD823
+D Dual Operational Amplifiers, DIP-8/SOIC-8/TSSOP-8/VSSOP-8
+K dual opamp
+F https://www.analog.com/media/en/technical-documentation/data-sheets/AD823.pdf
+$ENDCMP
+#
+#End Doc Library
