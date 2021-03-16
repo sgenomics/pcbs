@@ -11,8 +11,8 @@
 
   (page A4)
   (layers
-    (0 F.Cu signal)
-    (31 B.Cu signal)
+    (0 F.Cu signal hide)
+    (31 B.Cu signal hide)
     (32 B.Adhes user)
     (33 F.Adhes user)
     (34 B.Paste user)
@@ -172,7 +172,7 @@
   (module CUI_PJ-102A:CUI_PJ-102A (layer F.Cu) (tedit 5FA34FC7) (tstamp 5FA35EEB)
     (at 193.75 85.25 270)
     (path /5F807135)
-    (fp_text reference J3 (at 7 11.5 90) (layer F.SilkS)
+    (fp_text reference J3 (at 4.5 6 180) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value Jack-DC (at 0 13 90) (layer F.Fab) hide
@@ -1585,7 +1585,7 @@
     (fp_text reference R15 (at 5.08 -2.37 90) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value 180 (at 5.08 2.37 90) (layer F.Fab)
+    (fp_text value 180 (at 0.75 -2.5 90) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start 1.93 -1.25) (end 1.93 1.25) (layer F.Fab) (width 0.1))
@@ -1604,7 +1604,7 @@
     (fp_line (start -1.05 1.5) (end 11.21 1.5) (layer F.CrtYd) (width 0.05))
     (fp_line (start 11.21 1.5) (end 11.21 -1.5) (layer F.CrtYd) (width 0.05))
     (fp_line (start 11.21 -1.5) (end -1.05 -1.5) (layer F.CrtYd) (width 0.05))
-    (fp_text user %R (at 5.08 0 90) (layer F.Fab)
+    (fp_text user %R (at 5.08 0 90) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (pad 1 thru_hole circle (at 0 0 270) (size 1.6 1.6) (drill 0.8) (layers *.Cu *.Mask)
@@ -1708,7 +1708,7 @@
     (fp_text reference R19 (at -1.84 0 180) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
     )
-    (fp_text value 1K (at 5.08 2.37 90) (layer F.Fab)
+    (fp_text value 1K (at 5.08 2.37 90) (layer F.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_line (start 1.93 -1.25) (end 1.93 1.25) (layer F.Fab) (width 0.1))
